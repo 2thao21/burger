@@ -7,39 +7,26 @@
 # Directory Structure
 
 * All the recommended files and directories are as followed:
-.
-├── config
-│   ├── connection.js
-│   └── orm.js
-│ 
-├── controllers
-│   └── burgers_controller.js
-│
-├── db
-│   ├── schema.sql
-│   └── seeds.sql
-│
-├── models
-│   └── burger.js
-│ 
-├── node_modules
-│ 
-├── package.json
-│
-├── public
-│   └── assets
-│       ├── css
-│       │   └── burger_style.css
-│       └── img
-│           └── 
-│   
-│
-├── server.js
-│
-└── views
-    ├── index.handlebars
-    └── layouts
-        └── main.handlebars
+- config
+    - connection.js
+    - orm.js
+- controllers
+    - burgers_controllers.js
+-db
+    - schema.sql
+    - seeds.sql
+- models
+    - burger.js
+-package.json
+- public
+    - css
+        - burger_style.css
+    - img
+- server.js
+- views
+    - index.handlebars
+    - layouts
+        - main.handlebars
 
 # Live Demo
 * You can find the application at: https://obscure-caverns-41348.herokuapp.com/
