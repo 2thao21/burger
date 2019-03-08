@@ -1,0 +1,35 @@
+body{
+	font-size: 16px;
+	color: #333;
+	background-color: lightcyan;
+	margin: 0 auto;
+    /* background-image: url("../../assets/img/Spongebob_Krusty_Krab.png");
+    background-size: 100%; */
+}
+
+li {
+	font-size: 14px;
+}
+
+.jumbotron {
+	background-color: gainsboro;
+    text-align: center;
+    padding: 10px 10px;
+    margin: 25px 25px;
+}
+
+.container {
+	padding-right: 10px;
+	padding-left: 10px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#sizebtn {
+	width: 100%;
+}
+
+#image1{
+    width: 150px;
+    height: 90px;
+}
