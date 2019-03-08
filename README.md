@@ -40,3 +40,5 @@
 
 
 ![Deployed](https://github.com/2thao21/burger/blob/master/public/assets/img/burger_heroku.JPG)
+
+-- App on heroku worked previously, but now it gives errors, not sure why :/
