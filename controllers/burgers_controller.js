@@ -34,7 +34,10 @@ router.put("/burgers/:id", function(req, res){
 		devoured: true
 	}, condition, function(data) {
 		res.redirect("/");
-	});
+    });
+    
+    // Ran out of time/did not figure out how to make burgers get eaten(when selected/clicked on)
+
 });
 
 //Export routers for server.js to use
