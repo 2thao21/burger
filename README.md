@@ -28,7 +28,14 @@
     - layouts
         - main.handlebars
 
+# Feature
+
+* Add burgers to populate burgers in list
+* Once populated, burgers can be selected and be eaten.
+* When selected/eaten, burger will tranfer to eaten list.
+
 # Live Demo
+
 * You can find the application at: https://obscure-caverns-41348.herokuapp.com/
 
 
